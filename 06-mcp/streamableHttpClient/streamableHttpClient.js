@@ -15,7 +15,7 @@ const mcp = new Client(
 // 2. Erstelle den Streamable HTTP Transport
 // Ersetze die URL mit der Adresse deines Express-Servers aus dem vorherigen Schritt
 const transport = new StreamableHTTPClientTransport(
-  'http://localhost:3000/mcp',
+  'http://localhost:3210/mcp',
 );
 
 // 3. Verbindung aufbauen

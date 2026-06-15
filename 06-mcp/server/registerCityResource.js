@@ -18,8 +18,8 @@ export function registerCityResource(server) {
       // Optionaler Filter: ?country=USA
       const filtered = query?.country
         ? cities.filter(
-            (c) => c.country.toLowerCase() === query.country.toLowerCase(),
-          )
+          (c) => c.country.toLowerCase() === query.country.toLowerCase(),
+        )
         : cities;
 
       return {

@@ -6,7 +6,7 @@ import { createServer } from '../server/server.js';
 import cors from 'cors';
 
 const app = express();
-const PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT || 3210;
 
 // Essential middleware for parsing JSON bodies
 app.use(express.json());
