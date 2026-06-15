@@ -15,3 +15,11 @@ https://github.com/sspringer82/enterjs
 - gemma4 - Google
 - qwen - Alibaba
 - granite
+
+## Links
+- NoLiMa: https://arxiv.org/abs/2502.05167
+- unsloth: https://huggingface.co/unsloth/Llama-3.2-1B
+- https://github.com/0xSero/turboquant
+- https://github.com/ggml-org/llama.cpp
+- https://github.com/TheTom/llama-cpp-turboquant
+- https://vllm.ai/

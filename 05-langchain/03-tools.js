@@ -53,7 +53,7 @@ async function main() {
       },
       {
         role: 'user',
-        content: 'What is the current weather in New York?',
+        content: 'What is the current weather in Berlin?',
       },
     ],
   });
