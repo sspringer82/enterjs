@@ -19,10 +19,3 @@ export async function ask(messages) {
 
   return data.choices[0].message.content;
 }
-
-const response = await ask([{
-  role: 'user',
-  content: 'Explain the color red in one sentence.'
-}]);
-
-console.log(response);
